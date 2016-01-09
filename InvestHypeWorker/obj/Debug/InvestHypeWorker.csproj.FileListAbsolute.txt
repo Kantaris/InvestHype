@@ -1,0 +1,21 @@
+c:\users\chris\documents\visual studio 2013\Projects\InvestHypeWorker\InvestHypeWorker\bin\Debug\InvestHypeWorker.exe.config
+c:\users\chris\documents\visual studio 2013\Projects\InvestHypeWorker\InvestHypeWorker\bin\Debug\InvestHypeWorker.exe
+c:\users\chris\documents\visual studio 2013\Projects\InvestHypeWorker\InvestHypeWorker\bin\Debug\InvestHypeWorker.pdb
+c:\users\chris\documents\visual studio 2013\Projects\InvestHypeWorker\InvestHypeWorker\obj\Debug\InvestHypeWorker.csprojResolveAssemblyReference.cache
+c:\users\chris\documents\visual studio 2013\Projects\InvestHypeWorker\InvestHypeWorker\obj\Debug\InvestHypeWorker.Form1.resources
+c:\users\chris\documents\visual studio 2013\Projects\InvestHypeWorker\InvestHypeWorker\obj\Debug\InvestHypeWorker.Properties.Resources.resources
+c:\users\chris\documents\visual studio 2013\Projects\InvestHypeWorker\InvestHypeWorker\obj\Debug\InvestHypeWorker.csproj.GenerateResource.Cache
+c:\users\chris\documents\visual studio 2013\Projects\InvestHypeWorker\InvestHypeWorker\obj\Debug\InvestHypeWorker.exe
+c:\users\chris\documents\visual studio 2013\Projects\InvestHypeWorker\InvestHypeWorker\obj\Debug\InvestHypeWorker.pdb
+c:\users\chris\documents\visual studio 2013\Projects\InvestHypeWorker\InvestHypeWorker\bin\Debug\Common.dll
+c:\users\chris\documents\visual studio 2013\Projects\InvestHypeWorker\InvestHypeWorker\bin\Debug\MySql.Data.dll
+C:\Users\Administrator\Downloads\InvestHypeWorker\InvestHypeWorker\InvestHypeWorker\bin\Debug\InvestHypeWorker.exe.config
+C:\Users\Administrator\Downloads\InvestHypeWorker\InvestHypeWorker\InvestHypeWorker\obj\Debug\InvestHypeWorker.exe
+C:\Users\Administrator\Downloads\InvestHypeWorker\InvestHypeWorker\InvestHypeWorker\obj\Debug\InvestHypeWorker.pdb
+C:\Users\Administrator\Downloads\InvestHypeWorker\InvestHypeWorker\InvestHypeWorker\bin\Debug\InvestHypeWorker.exe
+C:\Users\Administrator\Downloads\InvestHypeWorker\InvestHypeWorker\InvestHypeWorker\bin\Debug\InvestHypeWorker.pdb
+C:\Users\Administrator\Downloads\InvestHypeWorker\InvestHypeWorker\InvestHypeWorker\obj\Debug\InvestHypeWorker.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Downloads\InvestHypeWorker\InvestHypeWorker\InvestHypeWorker\obj\Debug\InvestHypeWorker.Form1.resources
+C:\Users\Administrator\Downloads\InvestHypeWorker\InvestHypeWorker\InvestHypeWorker\obj\Debug\InvestHypeWorker.Properties.Resources.resources
+C:\Users\Administrator\Downloads\InvestHypeWorker\InvestHypeWorker\InvestHypeWorker\obj\Debug\InvestHypeWorker.csproj.GenerateResource.Cache
+C:\Users\Administrator\Downloads\InvestHypeWorker\InvestHypeWorker\InvestHypeWorker\bin\Debug\Newtonsoft.Json.dll

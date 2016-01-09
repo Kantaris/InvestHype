@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit http://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <LastUsedBuildConfiguration>Release</LastUsedBuildConfiguration>
+    <LastUsedPlatform>Any CPU</LastUsedPlatform>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="bin/Common.dll">
+      <publishTime>02/10/2012 12:06:36</publishTime>
+    </File>
+    <File Include="bin/Newtonsoft.Json.dll">
+      <publishTime>09/01/2015 12:31:13</publishTime>
+    </File>
+    <File Include="bin/WebApplication1.dll">
+      <publishTime>12/28/2015 16:53:00</publishTime>
+    </File>
+    <File Include="emails.ashx">
+      <publishTime>11/18/2015 10:02:09</publishTime>
+    </File>
+    <File Include="getnews.ashx">
+      <publishTime>08/26/2015 07:35:11</publishTime>
+    </File>
+    <File Include="nyheter.ashx">
+      <publishTime>11/16/2015 10:44:53</publishTime>
+    </File>
+    <File Include="popular.ashx">
+      <publishTime>11/11/2015 15:33:56</publishTime>
+    </File>
+    <File Include="rss.ashx">
+      <publishTime>10/01/2015 00:44:44</publishTime>
+    </File>
+    <File Include="twitter.ashx">
+      <publishTime>12/28/2015 15:05:04</publishTime>
+    </File>
+    <File Include="Web.config">
+      <publishTime>12/28/2015 16:54:58</publishTime>
+    </File>
+  </ItemGroup>
+</Project>
