@@ -154,13 +154,13 @@ var getMarkets = function(){
 			
 			if(data.list.resources[i].resource.fields.symbol.indexOf('^OMXSPI') > -1 ){
 				tmchange.eq(1).html( formatProcentString(data.list.resources[i].resource.fields.chg_percent));
-				var yearchange = calculateYearChange(data.list.resources[i].resource.fields.price, 473.89);
+				var yearchange = calculateYearChange(data.list.resources[i].resource.fields.price, 505);
 				tmname.eq(1).html(hours + '.' + mins + ', OMX-S, i år ' + yearchange + '%');
 			}
 			
 			else if(data.list.resources[i].resource.fields.symbol.indexOf('^DJI') > -1 ){
 				tmchange.eq(0).html( formatProcentString(data.list.resources[i].resource.fields.chg_percent));
-				var yearchange = calculateYearChange(data.list.resources[i].resource.fields.price, 17823.07);
+				var yearchange = calculateYearChange(data.list.resources[i].resource.fields.price, 17425);
 				tmname.eq(0).html(hours + '.' + mins + ', Dow Jones, i år ' + yearchange + '%');
 			}
 		}
@@ -194,7 +194,7 @@ var getMarketsAll = function(){
 			if(data.list.resources[i].resource.fields.symbol.indexOf('^OMXSPI') > -1 ){
 				procentDiv.eq(1).html( formatProcentString(data.list.resources[i].resource.fields.chg_percent));
 				tmchange.eq(1).html( formatProcentString(data.list.resources[i].resource.fields.chg_percent));
-				var yearchange = calculateYearChange(data.list.resources[i].resource.fields.price, 473.89);
+				var yearchange = calculateYearChange(data.list.resources[i].resource.fields.price, 505);
 				descriptDiv.eq(1).html(hours + '.' + mins + ', OMX-S, i år ' + yearchange + '%');
 				tmname.eq(1).html(hours + '.' + mins + ', OMX-S, i år ' + yearchange + '%');
 			}
@@ -206,18 +206,18 @@ var getMarketsAll = function(){
 			else if(data.list.resources[i].resource.fields.symbol.indexOf('^DJI') > -1 ){
 				procentDiv.eq(4).html( formatProcentString(data.list.resources[i].resource.fields.chg_percent));
 				tmchange.eq(0).html( formatProcentString(data.list.resources[i].resource.fields.chg_percent));
-				var yearchange = calculateYearChange(data.list.resources[i].resource.fields.price, 17823.07);
+				var yearchange = calculateYearChange(data.list.resources[i].resource.fields.price, 17425);
 				descriptDiv.eq(4).html(hours + '.' + mins + ', Dow Jones, i år ' + yearchange + '%');
 				tmname.eq(0).html(hours + '.' + mins + ', Dow Jones, i år ' + yearchange + '%');
 			}
 			else if(data.list.resources[i].resource.fields.symbol.indexOf('^IXIC') > -1 ){
 				procentDiv.eq(5).html( formatProcentString(data.list.resources[i].resource.fields.chg_percent));
-				var yearchange = calculateYearChange(data.list.resources[i].resource.fields.price, 4736.05);
+				var yearchange = calculateYearChange(data.list.resources[i].resource.fields.price, 5007);
 				descriptDiv.eq(5).html(hours + '.' + mins + ', Nasdaq, i år ' + yearchange + '%');
 			}
 			else if(data.list.resources[i].resource.fields.symbol.indexOf('^GSPC') > -1 ){
 				procentDiv.eq(6).html( formatProcentString(data.list.resources[i].resource.fields.chg_percent));
-				var yearchange = calculateYearChange(data.list.resources[i].resource.fields.price, 2058.90);
+				var yearchange = calculateYearChange(data.list.resources[i].resource.fields.price, 2043.94);
 				descriptDiv.eq(6).html(hours + '.' + mins + ', S&P 500, i år ' + yearchange + '%');
 			}
 			else if(data.list.resources[i].resource.fields.symbol.indexOf('^N225') > -1 ){
